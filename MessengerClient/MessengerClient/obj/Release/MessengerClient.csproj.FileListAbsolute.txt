@@ -1,0 +1,8 @@
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\bin\Release\MessengerClient.exe
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\bin\Release\MessengerClient.pdb
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\ResolveAssemblyReference.cache
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\MessengerClient.Form1.resources
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\MessengerClient.Properties.Resources.resources
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\MessengerClient.csproj.GenerateResource.Cache
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\MessengerClient.exe
+C:\work\source\test\MessengerSocket\MessengerClient\MessengerClient\obj\Release\MessengerClient.pdb
