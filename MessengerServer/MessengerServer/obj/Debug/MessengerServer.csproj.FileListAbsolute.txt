@@ -1,0 +1,16 @@
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\bin\Debug\MessengerServer.exe
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\bin\Debug\MessengerServer.pdb
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\ResolveAssemblyReference.cache
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.Form1.resources
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.Properties.Resources.resources
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.csproj.GenerateResource.Cache
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.exe
+C:\work\source\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.pdb
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.exe
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.pdb
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\bin\Debug\MessengerServer.exe
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\bin\Debug\MessengerServer.pdb
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\ResolveAssemblyReference.cache
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.Form1.resources
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.Properties.Resources.resources
+F:\work\test\MessengerSocket\MessengerServer\MessengerServer\obj\Debug\MessengerServer.csproj.GenerateResource.Cache
