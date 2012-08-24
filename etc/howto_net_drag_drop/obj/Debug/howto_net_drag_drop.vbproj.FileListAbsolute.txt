@@ -1,0 +1,10 @@
+C:\work\source\test\howto_net_drag_drop\bin\howto_net_drag_drop.exe
+C:\work\source\test\howto_net_drag_drop\bin\howto_net_drag_drop.pdb
+C:\work\source\test\howto_net_drag_drop\bin\howto_net_drag_drop.xml
+C:\work\source\test\howto_net_drag_drop\obj\Debug\ResolveAssemblyReference.cache
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.Form1.resources
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.vbproj.GenerateResource.Cache
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.exe
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.xml
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.pdb
+C:\work\source\test\howto_net_drag_drop\obj\Debug\howto_net_drag_drop.Resources.resources

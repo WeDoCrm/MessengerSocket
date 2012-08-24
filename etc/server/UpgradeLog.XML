@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SocketServer">
+</Property><Property Name="솔루션 파일" Value="C:\work\source\test\server\SocketServer.sln">
+</Property><Property Name="Date" Value="2012년 6월 16일 토요일">
+</Property><Property Name="Time" Value="오후 19:16">
+</Property></Properties><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.csproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="SocketServer" Source="SocketServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SocketServer.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="SocketServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SocketServer" Source="SocketServer.csproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

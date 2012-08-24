@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="howto_net_drag_drop">
+</Property><Property Name="솔루션 파일" Value="C:\work\source\test\howto_net_drag_drop\howto_net_drag_drop.sln">
+</Property><Property Name="Date" Value="2012년 3월 31일 토요일">
+</Property><Property Name="Time" Value="오후 20:38">
+</Property></Properties><Event ErrorLevel="0" Project="howto_net_drag_drop" Source="howto_net_drag_drop.vbproj" Description="프로젝트를 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="howto_net_drag_drop" Source="howto_net_drag_drop.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="howto_net_drag_drop.sln" Description="솔루션을 변환했습니다.">
+</Event><Event ErrorLevel="3" Project="" Source="howto_net_drag_drop.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="howto_net_drag_drop" Source="howto_net_drag_drop.vbproj" Description="검사 완료: 프로젝트 파일을 업그레이드할 필요가 없습니다.">
+</Event></UpgradeLog>

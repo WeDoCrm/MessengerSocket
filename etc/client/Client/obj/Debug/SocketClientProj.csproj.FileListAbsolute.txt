@@ -1,0 +1,7 @@
+C:\work\source\test\client\Client\bin\Debug\Project01.exe
+C:\work\source\test\client\Client\bin\Debug\Project01.pdb
+C:\work\source\test\client\Client\obj\Debug\ResolveAssemblyReference.cache
+C:\work\source\test\client\Client\obj\Debug\Project01.Form1.resources
+C:\work\source\test\client\Client\obj\Debug\SocketClientProj.csproj.GenerateResource.Cache
+C:\work\source\test\client\Client\obj\Debug\Project01.exe
+C:\work\source\test\client\Client\obj\Debug\Project01.pdb

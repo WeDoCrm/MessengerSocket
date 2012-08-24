@@ -1,0 +1,6 @@
+C:\work\source\test\howto_net_drag_drop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\work\source\test\howto_net_drag_drop\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\work\source\test\MsgFTPMgr\obj\Debug\WindowsFormsApplication1.exe
+C:\work\source\test\MsgFTPMgr\obj\Debug\WindowsFormsApplication1.pdb
+F:\work\test\MsgFTPMgr\obj\Debug\WindowsFormsApplication1.exe
+F:\work\test\MsgFTPMgr\obj\Debug\WindowsFormsApplication1.pdb

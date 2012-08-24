@@ -1,0 +1,11 @@
+C:\work\source\test\DragDropExam\DragDropExam\bin\Release\DragDropExam.exe
+C:\work\source\test\DragDropExam\DragDropExam\bin\Release\DragDropExam.pdb
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\ResolveAssemblyReference.cache
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.Form1.resources
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.Properties.Resources.resources
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.Resource1.resources
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.SourceForm.resources
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.TargetForm.resources
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.csproj.GenerateResource.Cache
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.exe
+C:\work\source\test\DragDropExam\DragDropExam\obj\Release\DragDropExam.pdb
